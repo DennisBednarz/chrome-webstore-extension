@@ -109,7 +109,7 @@ class Installer extends Api {
     params.append('x', `id=${id}&uc`);
 
     return {
-      'filename': `${id}.nex`,
+      'filename': `${id}.crx`,
       'url': `${this.constructor.CRX_HOST}?${params}`,
     };
   }
