@@ -10,7 +10,7 @@
   },
 
   "buttonTitle": {
-    "message": "Add to Opera",
+    "message": "Add to Chromium",
     "description": ""
   },
 
@@ -30,7 +30,7 @@
   },
 
   "installerFinalizeMayWork": {
-    "message": "To complete installation, go to extensions manager and confirm installation by clicking install button.\n\n[Compatibility notice]\nPlease, be aware that this extension requires APIs that aren't fully supported in Opera.\nIt still can work in Opera, so complete installation to verify.",
+    "message": "To complete installation, go to extensions manager and confirm installation by clicking install button.",
     "description": ""
   },
 
