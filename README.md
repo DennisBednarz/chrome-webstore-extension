@@ -4,7 +4,7 @@ A fork of Opera Software's Chrome Web Store extension downloader extension modif
 
 Do note that locales other than English and Polish aren't officially supported and will likely work but display incorrect/misleading messages and/or Opera branding. If you happen to know any of the languages left out, I'd appreciate a pull request with proper translations.
 
-##Project Status
+## Project Status
 
 The project is currently on hold. I'm not using Ungoogled Chromium anymore and I don't have time toying around with the code. It's likely an easy fix to get it up and running, so if you find it, make sure to make a pull request. 
 
